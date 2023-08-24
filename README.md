@@ -23,8 +23,4 @@ Java | Object-Oriented Programming | User Input Handling | Password Strength Ass
 
 The Secure Password Generator project showcases strong proficiency in Java programming and object-oriented design principles. It addresses the critical need for secure passwords by providing users with a user-friendly tool that encourages the adoption of secure password practices. The project's focus on interactivity, user guidance, and informative feedback contributes to its utility and effectiveness.
 
-**GitHub Repository:** [Link to GitHub Repository]
 
----
-
-Feel free to tailor this project description to include any additional details, accomplishments, or insights specific to your project. This description should effectively highlight the key features and contributions of your Secure Password Generator application.
